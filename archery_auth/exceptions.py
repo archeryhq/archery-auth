@@ -6,7 +6,8 @@ class LogInError(Exception):
         self.username = username
 
     def __str__(self) -> str:
-        return f'Error in authorization of person { self.username }!'
+        return 'Error in authorization of person ' +\
+            self.username + ' !'
 
 
 class WrongPasswordError(Exception):

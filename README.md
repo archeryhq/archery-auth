@@ -20,4 +20,4 @@ There are two related tables:
 
 * Auth - Responsible from personal data.
 
-Show the [notebook](https://github.com/archeryhq/archery-auth/Tests.ipynb)!*
+Show the [notebook](https://github.com/archeryhq/archery-auth/blob/main/Tests.ipynb)!*
